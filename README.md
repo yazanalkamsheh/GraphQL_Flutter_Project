@@ -1,2 +1,2 @@
 # GraphQL_Flutter_Project
-This Project is test to use GraphQL in Flutter
+This Project is simple task to use GraphQL in Flutter
